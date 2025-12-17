@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662869890482",
+    "project_id": "learngpgs2025",
+    "storage_bucket": "learngpgs2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662869890482:android:28a7323837c64a4b5e00ab",
+        "android_client_info": {
+          "package_name": "com.smilejsu.learngpgs2025"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662869890482-fngbfhs2hjo2mib3pllhl8nu5mqkvlgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWXCXBawJEQD1GwWIQL3eLv3jLUq9pCb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662869890482-fngbfhs2hjo2mib3pllhl8nu5mqkvlgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

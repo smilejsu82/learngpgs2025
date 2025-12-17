@@ -1,0 +1,9 @@
+lastUpgrade=20100
+proj.pluginVersion=2.1.0
+proj.AppId=662869890482
+and.BundleId=com.smilejsu.learngpgs2025
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--Google+Play+game+services+IDs.+Save+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--app_id--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e662869890482%3c%2fstring%3e%0d%0a++%3c%21--package_name--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.smilejsu.learngpgs2025%3c%2fstring%3e%0d%0a++%3c%21--achievement+%eb%89%b4%eb%b9%84+%ed%83%88%ec%b6%9c--%3e%0d%0a++%3cstring+name%3d%22achievement%22+translatable%3d%22false%22%3eCgkIsqv_sKUTEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--achievement+%eb%aa%ac%ec%8a%a4%ed%84%b0+%ec%8a%ac%eb%a0%88%ec%9d%b4%ec%96%b4--%3e%0d%0a++%3cstring+name%3d%22achievement_2%22+translatable%3d%22false%22%3eCgkIsqv_sKUTEAIQBA%3c%2fstring%3e%0d%0a++%3c%21--leaderboard+%ec%b5%9c%ea%b3%a0+%ec%a0%90%ec%88%98--%3e%0d%0a++%3cstring+name%3d%22leaderboard%22+translatable%3d%22false%22%3eCgkIsqv_sKUTEAIQAg%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=662869890482-fngbfhs2hjo2mib3pllhl8nu5mqkvlgh.apps.googleusercontent.com
+android.SetupDone=true
